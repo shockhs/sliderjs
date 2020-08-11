@@ -9,9 +9,9 @@ Get simple slider for your application
 Then...
 
 ```
-import { sliderJS } from 'vmslider';
+import { vmslider } from 'vmslider';
 
-sliderJS('slider', options)
+vmslider('slider', options)
 
 ```
 
