@@ -4,12 +4,12 @@ Get simple slider for your application
 
 # Installation
 
-`npm i sliderjs --save`
+`npm i vmslider --save`
 
 Then...
 
 ```
-import { sliderJS } from 'sliderjs';
+import { sliderJS } from 'vmslider';
 
 sliderJS('slider', options)
 

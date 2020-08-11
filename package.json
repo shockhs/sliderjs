@@ -1,0 +1,23 @@
+{
+  "name": "vmslider",
+  "version": "1.0.0",
+  "description": "Fast create slider with controls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EsaxCO/sliderjs.git"
+  },
+  "keywords": [
+    "slider",
+    "javascript"
+  ],
+  "author": "Vagan Mkrtchyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EsaxCO/sliderjs/issues"
+  },
+  "homepage": "https://github.com/EsaxCO/sliderjs#readme"
+}
