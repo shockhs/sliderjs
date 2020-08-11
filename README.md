@@ -4,7 +4,7 @@ Get simple slider for your application
 
 # Installation
 
-`npm i sliderJS --save`
+`npm i sliderjs --save`
 
 Then...
 
